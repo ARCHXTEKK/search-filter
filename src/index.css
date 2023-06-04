@@ -14,7 +14,7 @@
   margin: 10px;
   background-color: #110f0f;
   padding: 10px;
-  border-radius: 7px;
+  border-radius: 8px;
   caret-color: #fff;
   color: #fff;
   transition: transform 0.3s ease;
@@ -38,9 +38,17 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+body {
+  background-color: #202020;
+}
+
 .app {
   text-align: center;
   font-family: 'Montserrat';
   color: #fff;
-  background-color: #202020;
+  
+}
+
+.user {
+  margin-top: 8px;
 }
