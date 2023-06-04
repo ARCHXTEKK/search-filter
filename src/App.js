@@ -1,4 +1,5 @@
 import React from 'react';
+import JSONDATA from './DATA.json';
 
 function App() {
   return (
